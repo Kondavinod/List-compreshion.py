@@ -6,9 +6,9 @@ s=["Even"  if i%2==0  else  "odd" for i in range(1,11)]
 print(s)
 
 
-# 21	Find the length of each word in ["vinod","Python","Django"]
+# 21	Find the length of each word in ["Ajay","Python","Django"]
 
-n="vinod","Python","Django"
+n="Ajay","Python","Django"
 s=[len(i) for i in n ]
 print(s)
 
